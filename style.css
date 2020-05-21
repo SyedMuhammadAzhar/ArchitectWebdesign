@@ -66,9 +66,13 @@ nav{
     margin-left: 15px;
 }
 
-.main__title{
-    margin: 10px 0 0 0;
+.main_margin{
+    margin: 35px 0 0 0;
     padding: 20px 39px;
+}
+.main-padding{
+    padding: 20px 39px;
+
 }
 
 hr{
@@ -98,4 +102,7 @@ hr{
    color: white;
    background-color: black;
    padding: 9px;
+}
+.contact-margin-padding{
+    
 }
