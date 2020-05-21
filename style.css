@@ -65,3 +65,37 @@ nav{
     letter-spacing: 4px;
     margin-left: 15px;
 }
+
+.main__title{
+    margin: 10px 0 0 0;
+    padding: 20px 39px;
+}
+
+hr{
+    width: 95%;
+    margin:0px auto;
+   
+}
+
+
+.row-padding{
+    padding: 0px 28px;
+}
+.colpadding{
+    padding: 0px 6px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 24.7%;
+}
+.display-container{
+    position: relative;
+}
+
+.mini-banner{
+   position: absolute;
+   top: 0;
+   left: 0;
+   color: white;
+   background-color: black;
+   padding: 9px;
+}
