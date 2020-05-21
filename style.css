@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+nav,div,span{
+    border: 1px solid red;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    background-color: white;
+}
+.header-item{
+    text-decoration: none;
+    padding: 8px 15px;
+    letter-spacing: 1.6px;
+}
+.BR{
+    font-weight: 800;
+}
