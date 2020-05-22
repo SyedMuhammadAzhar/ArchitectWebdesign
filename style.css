@@ -76,14 +76,14 @@ nav{
 }
 
 hr{
-    width: 95%;
+    width: 96%;
     margin:0px auto;
-   
 }
 
 
 .row-padding{
-    padding: 0px 28px;
+    padding-left:28px;
+    padding-right: 28px;
 }
 .colpadding{
     padding: 0px 6px;
@@ -104,5 +104,39 @@ hr{
    padding: 9px;
 }
 .contact-margin-padding{
-    
+    margin: 10px 0px;
+    padding: 20px 0px;
+}
+.padding-height32{
+    padding: 32px 0px;
+}
+.padding-height-32{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.element-margin{
+    margin: 12px 0px;
+}
+.input-field{
+    display: inline-block;
+    width: 100%;
+    padding: 12px;
+}
+.input-border{
+    border: 1px solid #ccc !important;
+}
+.input-sections{
+    margin-bottom: 12px;
+    margin-top: 11px;
+}
+.btn-black{
+    background-color: black;
+    color: white;
+}
+.btn{
+    padding: 10px 20px;
+    text-align: center;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-weight:500;
 }
